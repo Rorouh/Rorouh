@@ -6,13 +6,13 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write          # necesario para publicar en la rama 'output'
+  contents: write          # publicar en la rama 'output'
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVGs
+      - name: Generate snake SVGs (SVG-only)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rorouh
