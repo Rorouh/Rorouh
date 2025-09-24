@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Miguel Angel Lopez Sanchez</h2>
+<h2 align="left">Miguel Angel Lopez Sanchez</h2>
 
 **Computer Engineer • Full-Stack (Angular/Node, Spring) • NLP & Accessibility (LSE) • Incoming Cybersecurity Master's Student**  
 Spain · Open to work
