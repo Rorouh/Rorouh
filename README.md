@@ -1,10 +1,20 @@
 <h2 align="left">Miguel Angel Lopez Sanchez</h2>
 
-**Computer Engineer • Full-Stack (Angular/Node, Spring) • NLP & Accessibility (LSE) • Incoming Cybersecurity Master's Student**  
+**Computer Engineer | Cybersecurity (Red & Blue Team) | NLP Researcher | Tech for Good**  
 Spain · Open to work
 
 <p>
-I build useful products end-to-end—from web platforms (Angular/Node, Spring Boot) to applied NLP for Easy-to-Read Spanish and Spanish Sign Language (LSE). I care about accessibility, clean software design, and smooth deployments (Docker, CI/CD, Vercel/AWS). I spent one academic year in Lisbon (PT) and now I'm starting a Cybersecurity Master’s.
+
+
+I am a Computer Engineer driven by a dual passion: securing digital ecosystems and building technology for social inclusion.
+
+🛡️ I am fascinated by the dichotomy of security. I thrive on the Red Team challenge—testing boundaries and assessing how deep one can penetrate a system—while equally valuing the Blue Team strategy of applying those insights to bulletproof an organization’s infrastructure.
+
+🤝  My work extends beyond code and hacking; I am motivated by solving real-world problems. Currently, I am developing a proprietary AI/NLP model with a clear goal: inclusion.
+
+I am building a solution to assist the Deaf community in overcoming written communication barriers. By creating a custom learning model, I aim to facilitate the comprehension of complex Spanish grammatical structures, making information more accessible.
+
+To leverage modern technology to dismantle communication barriers and create safer, more inclusive digital environments.
 </p>
 
 ---
